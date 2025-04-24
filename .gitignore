@@ -1,0 +1,6 @@
+# Le script de connexion à la base de données de production
+scripts/connect_database_hostinger.php
+
+# Fichiers parasites
+*.vscode
+*.DS_Store
