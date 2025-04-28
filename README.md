@@ -1,33 +1,33 @@
 # Messages
 
-## Présentation
+## Overview
 
-Ce projet est une messagerie en PHP 8, utilisant une MySQL pour la base de données. \
-Une fois que vous avez créé votre compte et que vous êtes connecté, vous pouvez ajouter des personnes en ami, créer des groupes et discuter avec eux. \
-Le seul point noir de ce système si bien rôdé est qu'il faut rafraîchir la page afin de voir les nouveaux messages apparaître, ceci est dû à la **non-présence** de notifications en temps-réel et de la nature de PHP pure.
+This project is a messaging app built with PHP 8, using MySQL for the database. \
+Once you create your account and log in, you can add friends, create groups, and chat with them. \
+The only downside to this well-functioning system is that you need to refresh the page to see new messages, due to the **lack of real-time notifications** and the nature of pure PHP.
 
-*Remarque : l'interface de ce projet s'adapte à toutes les tailles d'écran et est donc parfaitement utilisable sur un smartphone.*
+> *Note: The interface of this project is responsive, making it fully usable on smartphones.*
 
-Ce projet est **déployé** et **utilisable** à cette adresse : [`https://messages.pifpafdeluxe.fr/`](https://messages.pifpafdeluxe.fr/). \
-Je vous **déconseille** de mettre un mot de passe que vous utilisez souvent ainsi que votre véritable adresse e-mail (une adresse bidon fait parfaitement l'affaire) en raison de la ***faible sécurité*** qu'il y a sur ce site. \
-Vous pouvez m'ajouter en ami et m'envoyer des messages, peut être que je vous répondrai un jour. Mon nom d'utilisateur sur ce site est *Alexis Larose* :)
+This project is **deployed** and **accessible** at the following address: [`https://messages.pifpafdeluxe.fr/`](https://messages.pifpafdeluxe.fr/). \
+I **recommend** not using a password you frequently use or your real email address (a fake one works perfectly fine) due to the ***low security*** of this site. \
+Feel free to add me as a friend and send me messages; maybe I'll reply one day. My username on this site is *Alexis Larose* :)
 
-## Exemples
+## Examples
 
 > ![welcome](examples/welcome.png)
-> *La page d'accueil de la messagerie quand vous n'êtes pas connecté*
+> *The homepage of the messaging app when you're not logged in*
 
 > ![main](examples/main.png)
-> *La page principale de la messagerie*
+> *The main page of the messaging app*
 
 > ![login](examples/login.png)
-> *Le formulaire pour se connecter à son compte*
+> *The login form to access your account*
 
 > ![signup](examples/signup.png)
-> *Le formulaire pour créer son compte*
+> *The sign-up form to create your account*
 
 > ![search_friends](examples/search_friends.png)
-> *Le menu pour ajouter des utilisateurs en ami*
+> *The menu to add users as friends*
 
 > ![create_group](examples/create_group.png)
-> *Le menu pour créer un groupe*
+> *The menu to create a group*
