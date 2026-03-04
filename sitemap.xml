@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://messages.alexis-larose.com/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://messages.alexis-larose.com/pages/add_friend.php</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://messages.alexis-larose.com/pages/create_group.php</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://messages.alexis-larose.com/pages/login.php</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://messages.alexis-larose.com/pages/signin.php</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

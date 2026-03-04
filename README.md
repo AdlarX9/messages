@@ -8,7 +8,7 @@ The only downside to this well-functioning system is that you need to refresh th
 
 > *Note: The interface of this project is responsive, making it fully usable on smartphones.*
 
-This project is **deployed** and **accessible** at the following address: [`https://messages.pifpafdeluxe.fr/`](https://messages.pifpafdeluxe.fr/). \
+This project is **deployed** and **accessible** at the following address: [`https://messages.alexis-larose.com/`](https://messages.alexis-larose.com/). \
 I **recommend** not using a password you frequently use or your real email address (a fake one works perfectly fine) due to the ***low security*** of this site. \
 Feel free to add me as a friend and send me messages; maybe I'll reply one day. My username on this site is *Alexis Larose* :)
 

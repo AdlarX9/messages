@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://messages.alexis-larose.com/sitemap.xml
+Host: https://messages.alexis-larose.com
